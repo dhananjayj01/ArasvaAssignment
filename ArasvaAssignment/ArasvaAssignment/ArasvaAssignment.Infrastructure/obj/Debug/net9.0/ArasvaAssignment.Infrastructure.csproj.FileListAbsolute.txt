@@ -1,0 +1,24 @@
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\bin\Debug\net9.0\ArasvaAssignment.Infrastructure.deps.json
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\bin\Debug\net9.0\ArasvaAssignment.Infrastructure.dll
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\bin\Debug\net9.0\ArasvaAssignment.Infrastructure.pdb
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\obj\Debug\net9.0\ArasvaAssignment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\obj\Debug\net9.0\ArasvaAssignment.Infrastructure.AssemblyInfoInputs.cache
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\obj\Debug\net9.0\ArasvaAssignment.Infrastructure.AssemblyInfo.cs
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\obj\Debug\net9.0\ArasvaAssignment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\obj\Debug\net9.0\ArasvaAssignment.Infrastructure.dll
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\obj\Debug\net9.0\refint\ArasvaAssignment.Infrastructure.dll
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\obj\Debug\net9.0\ArasvaAssignment.Infrastructure.pdb
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\obj\Debug\net9.0\ref\ArasvaAssignment.Infrastructure.dll
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\obj\Debug\net9.0\ArasvaAssignment.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\bin\Debug\net9.0\ArasvaAssignment.Infrastructure.deps.json
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\bin\Debug\net9.0\ArasvaAssignment.Infrastructure.dll
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\bin\Debug\net9.0\ArasvaAssignment.Infrastructure.pdb
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\obj\Debug\net9.0\ArasvaAssignment.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\obj\Debug\net9.0\ArasvaAssignment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\obj\Debug\net9.0\ArasvaAssignment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\obj\Debug\net9.0\ArasvaAssignment.Infrastructure.AssemblyInfo.cs
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\obj\Debug\net9.0\ArasvaAssignment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\obj\Debug\net9.0\ArasvaAssignment.Infrastructure.dll
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\obj\Debug\net9.0\refint\ArasvaAssignment.Infrastructure.dll
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\obj\Debug\net9.0\ArasvaAssignment.Infrastructure.pdb
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Infrastructure\obj\Debug\net9.0\ref\ArasvaAssignment.Infrastructure.dll

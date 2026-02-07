@@ -1,0 +1,6 @@
+@ArasvaAssignment.API_HostAddress = http://localhost:5108
+
+GET {{ArasvaAssignment.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

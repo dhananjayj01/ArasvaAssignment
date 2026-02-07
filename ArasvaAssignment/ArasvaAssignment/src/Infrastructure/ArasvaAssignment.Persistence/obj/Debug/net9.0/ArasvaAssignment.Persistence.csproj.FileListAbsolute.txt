@@ -1,0 +1,42 @@
+C:\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\bin\Debug\net9.0\ArasvaAssignment.Persistence.deps.json
+C:\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\bin\Debug\net9.0\ArasvaAssignment.Persistence.dll
+C:\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\bin\Debug\net9.0\ArasvaAssignment.Persistence.pdb
+C:\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\ArasvaAssignment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\ArasvaAssignment.Persistence.AssemblyInfoInputs.cache
+C:\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\ArasvaAssignment.Persistence.AssemblyInfo.cs
+C:\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\ArasvaAssignment.Persistence.csproj.CoreCompileInputs.cache
+C:\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\ArasvaAssignment.Persistence.dll
+C:\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\refint\ArasvaAssignment.Persistence.dll
+C:\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\ArasvaAssignment.Persistence.pdb
+C:\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\ref\ArasvaAssignment.Persistence.dll
+C:\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\bin\Debug\net9.0\ArasvaAssignment.Persistence.runtimeconfig.json
+C:\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\bin\Debug\net9.0\ArasvaAssignment.Domain.dll
+C:\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\bin\Debug\net9.0\ArasvaAssignment.Domain.pdb
+C:\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\ArasvaAssignment.Persistence.csproj.AssemblyReference.cache
+C:\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\ArasvaAs.D5F60205.Up2Date
+C:\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\ArasvaAssignment.Persistence.genruntimeconfig.cache
+C:\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\bin\Debug\net9.0\ArasvaAssignment.Application.dll
+C:\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\bin\Debug\net9.0\ArasvaAssignment.Application.pdb
+C:\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\bin\Debug\net9.0\ArasvaAssignment.Infrastructure.dll
+C:\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\bin\Debug\net9.0\ArasvaAssignment.Infrastructure.pdb
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\bin\Debug\net9.0\ArasvaAssignment.Persistence.deps.json
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\bin\Debug\net9.0\ArasvaAssignment.Persistence.runtimeconfig.json
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\bin\Debug\net9.0\ArasvaAssignment.Persistence.dll
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\bin\Debug\net9.0\ArasvaAssignment.Persistence.pdb
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\bin\Debug\net9.0\ArasvaAssignment.Application.dll
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\bin\Debug\net9.0\ArasvaAssignment.Domain.dll
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\bin\Debug\net9.0\ArasvaAssignment.Infrastructure.dll
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\bin\Debug\net9.0\ArasvaAssignment.Application.pdb
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\bin\Debug\net9.0\ArasvaAssignment.Domain.pdb
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\bin\Debug\net9.0\ArasvaAssignment.Infrastructure.pdb
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\ArasvaAssignment.Persistence.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\ArasvaAssignment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\ArasvaAssignment.Persistence.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\ArasvaAssignment.Persistence.AssemblyInfo.cs
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\ArasvaAssignment.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\ArasvaAs.D5F60205.Up2Date
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\ArasvaAssignment.Persistence.dll
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\refint\ArasvaAssignment.Persistence.dll
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\ArasvaAssignment.Persistence.pdb
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\ArasvaAssignment.Persistence.genruntimeconfig.cache
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\src\Infrastructure\ArasvaAssignment.Persistence\obj\Debug\net9.0\ref\ArasvaAssignment.Persistence.dll

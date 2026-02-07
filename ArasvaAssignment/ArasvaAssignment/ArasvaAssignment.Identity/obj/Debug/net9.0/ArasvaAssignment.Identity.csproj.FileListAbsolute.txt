@@ -1,0 +1,38 @@
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\bin\Debug\net9.0\ArasvaAssignment.Identity.deps.json
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\bin\Debug\net9.0\ArasvaAssignment.Identity.dll
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\bin\Debug\net9.0\ArasvaAssignment.Identity.pdb
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\bin\Debug\net9.0\ArasvaAssignment.Application.dll
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\bin\Debug\net9.0\ArasvaAssignment.Domain.dll
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\bin\Debug\net9.0\ArasvaAssignment.Infrastructure.dll
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\bin\Debug\net9.0\ArasvaAssignment.Application.pdb
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\bin\Debug\net9.0\ArasvaAssignment.Domain.pdb
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\bin\Debug\net9.0\ArasvaAssignment.Infrastructure.pdb
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\obj\Debug\net9.0\ArasvaAssignment.Identity.csproj.AssemblyReference.cache
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\obj\Debug\net9.0\ArasvaAssignment.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\obj\Debug\net9.0\ArasvaAssignment.Identity.AssemblyInfoInputs.cache
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\obj\Debug\net9.0\ArasvaAssignment.Identity.AssemblyInfo.cs
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\obj\Debug\net9.0\ArasvaAssignment.Identity.csproj.CoreCompileInputs.cache
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\obj\Debug\net9.0\ArasvaAs.4B1F514E.Up2Date
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\obj\Debug\net9.0\ArasvaAssignment.Identity.dll
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\obj\Debug\net9.0\refint\ArasvaAssignment.Identity.dll
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\obj\Debug\net9.0\ArasvaAssignment.Identity.pdb
+C:\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\obj\Debug\net9.0\ref\ArasvaAssignment.Identity.dll
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\bin\Debug\net9.0\ArasvaAssignment.Identity.deps.json
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\bin\Debug\net9.0\ArasvaAssignment.Identity.dll
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\bin\Debug\net9.0\ArasvaAssignment.Identity.pdb
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\bin\Debug\net9.0\ArasvaAssignment.Application.dll
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\bin\Debug\net9.0\ArasvaAssignment.Domain.dll
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\bin\Debug\net9.0\ArasvaAssignment.Infrastructure.dll
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\bin\Debug\net9.0\ArasvaAssignment.Application.pdb
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\bin\Debug\net9.0\ArasvaAssignment.Domain.pdb
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\bin\Debug\net9.0\ArasvaAssignment.Infrastructure.pdb
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\obj\Debug\net9.0\ArasvaAssignment.Identity.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\obj\Debug\net9.0\ArasvaAssignment.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\obj\Debug\net9.0\ArasvaAssignment.Identity.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\obj\Debug\net9.0\ArasvaAssignment.Identity.AssemblyInfo.cs
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\obj\Debug\net9.0\ArasvaAssignment.Identity.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\obj\Debug\net9.0\ArasvaAs.4B1F514E.Up2Date
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\obj\Debug\net9.0\ArasvaAssignment.Identity.dll
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\obj\Debug\net9.0\refint\ArasvaAssignment.Identity.dll
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\obj\Debug\net9.0\ArasvaAssignment.Identity.pdb
+C:\Users\dell\Downloads\ArasvaAssignment 4\ArasvaAssignment\ArasvaAssignment\ArasvaAssignment.Identity\obj\Debug\net9.0\ref\ArasvaAssignment.Identity.dll
