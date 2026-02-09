@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArasvaAssignment.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f8f4792ce36ee2e6a66bc62d529258d13a2d64c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArasvaAssignment.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArasvaAssignment.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
